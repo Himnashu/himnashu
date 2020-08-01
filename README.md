@@ -25,9 +25,9 @@ Hi, I'm Hiamnshu Satija, a Frontend Developer 🚀 from India, currently, I'm a 
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on [React-zoom-slider];
+- 👨🏽‍💻 I’m currently working on [React-zoom-slider](https://github.com/Himnashu/react-zoom-slider);
 - 🌱 I’m currently learning Redux and C++; 
-- 👯 I’m looking to collaborate on [React-zoom-slider] 🤝;
+- 👯 I’m looking to collaborate on [React-zoom-slider](https://github.com/Himnashu/react-zoom-slider) 🤝;
 - 🤔 I’m looking for help with Data Structures and Algorithms 😭;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: hunnysatija01@gmail.com;
